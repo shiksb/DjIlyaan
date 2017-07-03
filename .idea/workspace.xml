@@ -2,76 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a239a820-2ed8-4d63-8c5a-83145f02c070" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/img/downloads-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/img/intro-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/img/map-marker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/css/grayscale.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/css/grayscale.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/js/grayscale.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/js/grayscale.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/less/grayscale.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/sass/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/sass/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/sass/grayscale.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/less/screen-reader.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/scss/_screen-reader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/font-awesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/djilyaan/static/vendor/jquery/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/templates/index.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/djilyaan/static/humans.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/djilyaan/settings.py" afterPath="$PROJECT_DIR$/djilyaan/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/djilyaan/urls.py" afterPath="$PROJECT_DIR$/djilyaan/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/music/templates/index.html" afterPath="$PROJECT_DIR$/music/templates/index.html" />
     </list>
     <ignored path="djilyaan.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -107,9 +38,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/music/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-              <folding />
+            <state relative-caret-position="268">
+              <caret line="139" column="14" selection-start-line="139" selection-start-column="14" selection-end-line="139" selection-end-column="14" />
+              <folding>
+                <marker date="1499065150000" expanded="false" signature="6846:6852" ph="©" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -745,11 +678,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="57" column="14" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/music/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding />
+        <state relative-caret-position="268">
+          <caret line="139" column="14" selection-start-line="139" selection-start-column="14" selection-end-line="139" selection-end-column="14" />
+          <folding>
+            <marker date="1499065150000" expanded="false" signature="6846:6852" ph="©" />
+          </folding>
         </state>
       </provider>
     </entry>
